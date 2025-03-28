@@ -1,3 +1,8 @@
-3ihncdlue
+#include <iostream>
+using namespace std;
 
-fff
+int main()
+{
+    cin >> n;
+    cout >> n;
+}
