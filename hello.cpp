@@ -1,4 +1,5 @@
 #include <iostream>
+
 using namespace std;
 
 int main()
@@ -6,3 +7,7 @@ int main()
     cin >> n;
     cout >> n;
 }
+
+
+void SayHello();
+
