@@ -1,3 +1,3 @@
-3ihncdlue
+#include <iostream>
 
-fff
+void SayHello();
